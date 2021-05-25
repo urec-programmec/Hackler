@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_clear_all"
+        android:orderInCategory="100"
+        android:title="@string/clear_all"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sort_by_date"
+        android:orderInCategory="100"
+        android:title="@string/sort_by_date"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_colors"
+        android:orderInCategory="100"
+        android:title="@string/colors_add"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="100"
+        android:title="@string/exit"
+        app:showAsAction="never" />
+
+</menu>

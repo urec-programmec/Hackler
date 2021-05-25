@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hackler</string>
+    <string name="clear_all">Очистить все</string>
+    <string name="sort_by_date">Сортировать по дате</string>
+    <string name="colors_add">Выделить цветом по приоритету</string>
+    <string name="colors_delete">Убрать выделение по приоритету</string>
+    <string name="exit">Выход</string>
+</resources>
